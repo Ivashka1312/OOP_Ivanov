@@ -1,0 +1,14 @@
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\9 практична (3 завдання).GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\9 практична (3 завдання).AssemblyInfoInputs.cache
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\9 практична (3 завдання).AssemblyInfo.cs
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\9 практична (3 завдання).csproj.CoreCompileInputs.cache
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\bin\Debug\net8.0\9 практична (3 завдання).exe
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\bin\Debug\net8.0\9 практична (3 завдання).deps.json
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\bin\Debug\net8.0\9 практична (3 завдання).runtimeconfig.json
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\bin\Debug\net8.0\9 практична (3 завдання).dll
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\bin\Debug\net8.0\9 практична (3 завдання).pdb
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\9 практична (3 завдання).dll
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\refint\9 практична (3 завдання).dll
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\9 практична (3 завдання).pdb
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\9 практична (3 завдання).genruntimeconfig.cache
+D:\Documents\Навчання\ООП\2 семестр\9 практична (3 завдання)\obj\Debug\net8.0\ref\9 практична (3 завдання).dll

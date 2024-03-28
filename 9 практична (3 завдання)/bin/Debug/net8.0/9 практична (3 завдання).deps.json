@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "9 практична (3 завдання)/1.0.0": {
+        "runtime": {
+          "9 практична (3 завдання).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9 практична (3 завдання)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
